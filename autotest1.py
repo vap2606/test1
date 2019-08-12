@@ -1,4 +1,3 @@
-#test
 from pywinauto.application import Application
 import time
 path = "C:\\Program Files (x86)\\ISS\\SecurOS\\"

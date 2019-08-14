@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../InstallSecuros/.idea/InstallSecuros.iml" filepath="$PROJECT_DIR$/../InstallSecuros/.idea/InstallSecuros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RestApi/.idea/RestApi.iml" filepath="$PROJECT_DIR$/../RestApi/.idea/RestApi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/test1.iml" filepath="$PROJECT_DIR$/.idea/test1.iml" />
     </modules>
   </component>
